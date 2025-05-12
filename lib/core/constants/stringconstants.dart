@@ -22,6 +22,9 @@ class StringConstants {
   static const phoneNumber = "Phone number";
   static const lastname = "Lastname";
   static const firstname = "Firstname";
+  static const phoneNumberAst = "Phone number*";
+  static const lastnameAst = "Lastname*";
+  static const firstnameAst = "Firstname*";
   static const submit = "Submit";
   static const update = "Update";
   static const profile = "Profile";

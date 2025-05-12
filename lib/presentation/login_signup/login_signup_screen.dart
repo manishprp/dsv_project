@@ -128,7 +128,7 @@ class _MyHomePageState extends State<LoginSignupScreen> {
                               child: AppTextInput(
                                 validator: Validators.validateName,
                                 controller: _firstNameController,
-                                labelText: StringConstants.firstname,
+                                labelText: StringConstants.firstnameAst,
                               ),
                             ),
                             SizeConstants.gapH20,
@@ -138,7 +138,7 @@ class _MyHomePageState extends State<LoginSignupScreen> {
                               child: AppTextInput(
                                 validator: Validators.validateName,
                                 controller: _lastNameController,
-                                labelText: StringConstants.lastname,
+                                labelText: StringConstants.lastnameAst,
                               ),
                             ),
                             SizeConstants.gapH20,
@@ -148,7 +148,7 @@ class _MyHomePageState extends State<LoginSignupScreen> {
                               child: AppTextInput(
                                 validator: Validators.validatePhoneNumber,
                                 controller: _phoneNumberController,
-                                labelText: StringConstants.phoneNumber,
+                                labelText: StringConstants.phoneNumberAst,
                               ),
                             ),
                             SizeConstants.gapH20,

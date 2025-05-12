@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:dsv_project/core/local/store_user.dart';
+import '../../../../core/local/store_user.dart';
 import '../../../../core/network/result.dart';
 import '../../../../data/repository/loginsignup_repository_impl.dart';
 import '../../../../domain/usecase/signup_usecase.dart';

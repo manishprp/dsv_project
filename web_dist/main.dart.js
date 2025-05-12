@@ -39406,9 +39406,9 @@ q=this.a
 p=t.E
 o=A.a8N(A.b([new A.l7(q.d,new A.ahH(q),"Sign In",i,i),B.xc,new A.l7(q.e,new A.ahI(q),"Sign Up",i,i)],p),B.aL,B.fy)
 n=q.e
-m=A.ad5(new A.hT(q.r,A.aq3(),"Firstname",!0,i),n)
-l=A.ad5(new A.hT(q.w,A.aq3(),"Lastname",!0,i),n)
-k=A.ad5(new A.hT(q.x,A.awY(),"Phone number",!0,i),n)
+m=A.ad5(new A.hT(q.r,A.aq3(),"Firstname*",!0,i),n)
+l=A.ad5(new A.hT(q.w,A.aq3(),"Lastname*",!0,i),n)
+k=A.ad5(new A.hT(q.x,A.awY(),"Phone number*",!0,i),n)
 n=A.ad5(new A.hT(q.z,new A.ahJ(q),"Confirm Password*",!0,i),n)
 j=q.d?"Sign In":"Sign Up"
 return A.lc(A.atI(A.Gh(A.nt(A.b([o,B.b6,A.arZ(A.nt(A.b([m,B.b6,l,B.b6,k,B.b6,new A.hT(q.f,A.awX(),"Email*",!0,i),B.b6,new A.hT(q.y,A.aLM(),"Password*",!0,i),B.b6,n,B.b6,new A.l7(!0,new A.ahK(q,a),j,30,i)],p),B.aL,B.aP,B.cr),q.Q)],p),B.aL,B.aP,B.cr),B.S,new A.dX(r,i,i,i,i,i,B.aV),i,i,new A.aS(20,20,20,20),s),new A.aS(15,15,15,15)),i,i)}},
